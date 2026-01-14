@@ -5,6 +5,7 @@ DEFAULT_SUMMARIZATION_MODEL = "Qiliang/bart-large-cnn-samsum-ChatGPT_v3"
 # Also try: 'joeddav/distilbert-base-uncased-go-emotions-student'
 DEFAULT_CLASSIFICATION_MODEL = "nateraw/bert-base-uncased-emotion"
 # Also try: 'Salesforce/blip-image-captioning-base'
+# DEFAULT_CAPTIONING_MODEL = "BaSalam/paligemma2-3b-merged-nsfw-v1"
 DEFAULT_CAPTIONING_MODEL = "Salesforce/blip-image-captioning-large"
 DEFAULT_SD_MODEL = "ckpt/anything-v4.5-vae-swapped"
 DEFAULT_EMBEDDING_MODEL = "sentence-transformers/all-mpnet-base-v2"
